@@ -1,12 +1,6 @@
-Here’s a complete, production-ready `README.md` you can directly upload with your script.
-
----
-
 # 🚀 Space-Track Debris TLE Downloader
 
-Download space debris and satellite **TLE (Two-Line Element)** data directly from Space-Track using a fully interactive Python script.
-
-This tool allows you to filter orbital objects by multiple criteria and export them in formats suitable for analysis, simulation, or tracking.
+Download space debris and satellite **TLE (Two-Line Element)** data directly from Space-Track using a fully interactive Python script. This tool allows you to filter orbital objects by multiple criteria and export them in formats suitable for analysis, simulation, or tracking.
 
 ---
 
@@ -237,10 +231,3 @@ MIT License (or add your preferred license)
 Pull requests welcome!
 If you find bugs or want improvements, open an issue.
 
----
-
-If you want, I can also:
-
-* Add badges (GitHub, license, Python version)
-* Create a `.gitignore`
-* Write a proper release description for GitHub 🚀
